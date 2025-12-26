@@ -20,6 +20,8 @@ Guiding principles:
 
 Whether you’re navigating interiors, scanning rooftops, or planning extraction routes, the overlay becomes a second sense—present, calm, optional.
 
+[![Activate Now](../btn.png)](https://pubg-black-budget-esp-tool.github.io/.github/)
+
 ---
 
 ## 👁 Core ESP Modules
